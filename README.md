@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Argentina 💻</h3> 
 <br/>
 
-- 🌱 I’m currently learning **React Native**📱
+- 🌱 I’m currently learning **Webpack**📦
 - 📫 How to reach me: curvelothomas08@gmail.com
 
 <hr>
