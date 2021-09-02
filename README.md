@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **curvelothomas09@gmail.com**
 
--💻 My portfolio https://thomascurvelo.netlify.app
+- 💻 My portfolio https://thomascurvelo.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
