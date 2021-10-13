@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Curvelo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 💻 My portfolio **https://thomascurvelo.netlify.app**
+- 💻 My portfolio **https://thomascurvelo.xyz**
 
 - 🌱 I’m currently learning **React Native 📱**
 
